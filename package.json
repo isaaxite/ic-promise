@@ -1,0 +1,14 @@
+{
+  "name": "ic-promise",
+  "version": "1.0.0",
+  "description": "promise class that implemented by isaac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "isaac",
+  "license": "ISC"
+}
