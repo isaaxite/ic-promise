@@ -123,6 +123,8 @@ IcPromise.all([
 });
 ```
 
+喜欢看到更多版本(ES5、ES6+、TS)可以点击[\[传送门\]](https://github.com/issaxite/ezblog/tree/master/example/selfPromise)
+
 # License
 
   MIT
